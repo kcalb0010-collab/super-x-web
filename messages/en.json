@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "technology": "Technology",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "title": "Autonomous Logistics for the Future of Industry",
+    "subtitle": "Autonomous driving and intelligent logistics solutions for factories, warehouses and industrial operations in Thailand.",
+    "primaryButton": "Explore Solutions",
+    "secondaryButton": "Contact Us",
+    "autonomousDriving": "Autonomous Driving",
+    "operation": "Operation",
+    "localSupport": "Local Support",
+    "imageTitle": "Intelligent Autonomous Transportation",
+    "imageDescription": "Designed for modern factories, warehouses and industrial logistics."
+  },
+
+  "intro": {
+    "label": "About Super X AI",
+    "title": "World-Class Autonomous Driving Technology",
+    "subtitle": "Operated and Supported by Our Team in Thailand",
+    "description": "Super X AI brings world-class autonomous logistics technology into real industrial operations in Thailand.",
+    "description2": "Powered by Level 4 Autonomous Driving technology from Zelostech and supported by the industrial foundation of DIMET (SIAM) PCL, we provide end-to-end solutions from planning and system integration to installation, deployment, monitoring and local after-sales support.",
+    "highlight": "More than autonomous vehicles — a complete autonomous logistics system."
+  },
+
+  "solutions": {
+    "label": "Solutions",
+    "title": "Complete Autonomous Logistics Solutions",
+    "description": "From autonomous vehicles and system integration to deployment and local support, Super X AI provides a complete end-to-end solution.",
+    "card1Title": "Autonomous Delivery Vehicle",
+    "card1Description": "Autonomous transportation solutions for factories, warehouses, distribution centers and industrial facilities.",
+    "card2Title": "System Integration",
+    "card2Description": "Connect autonomous logistics systems with factory infrastructure, existing workflows and operational systems.",
+    "card3Title": "Deployment & Local Support",
+    "card3Description": "Installation, testing, deployment, monitoring and after-sales support by our team in Thailand."
+  },
+
+  "technology": {
+    "label": "Technology",
+    "title": "Level 4 Autonomous Driving Technology",
+    "description": "Powered by advanced autonomous driving technology from Zelostech and supported by industrial expertise from DIMET (SIAM) PCL.",
+    "item1Title": "Autonomous Navigation",
+    "item1Description": "Intelligent route planning and autonomous movement in industrial environments.",
+    "item2Title": "AI Perception",
+    "item2Description": "Real-time environmental perception, obstacle detection and intelligent decision-making.",
+    "item3Title": "Fleet Management",
+    "item3Description": "Centralized control and management for multiple autonomous vehicles.",
+    "item4Title": "System Monitoring",
+    "item4Description": "Operational visibility and system monitoring for reliable industrial deployment."
+  },
+
+  "workflow": {
+    "label": "Why Super X AI",
+    "title": "More Than an Autonomous Vehicle",
+    "description": "We deliver a complete autonomous logistics ecosystem from planning to operation and long-term support.",
+    "step1Title": "Planning",
+    "step1Description": "Analyze factory operations, transportation routes and logistics requirements.",
+    "step2Title": "Integration",
+    "step2Description": "Design and integrate autonomous logistics with existing factory infrastructure.",
+    "step3Title": "Deployment",
+    "step3Description": "Installation, testing and real-world deployment in industrial environments.",
+    "step4Title": "Support",
+    "step4Description": "Monitoring, maintenance and after-sales support by our local team in Thailand."
+  },
+
+  "partners": {
+    "label": "Technology & Industrial Foundation",
+    "zelosLabel": "Autonomous Technology",
+    "zelosDescription": "Level 4 Autonomous Driving Technology",
+    "dimetLabel": "Industrial Foundation",
+    "dimetDescription": "Industrial experience and local operations in Thailand"
+  },
+
+  "contact": {
+    "label": "Contact Super X AI",
+    "title": "Build the Future of Autonomous Logistics",
+    "description": "Talk with our team about autonomous logistics solutions for your factory, warehouse or industrial operation.",
+    "button": "Contact Super X AI",
+    "backTop": "Back to Top"
+  },
+
+  "footer": {
+    "subtitle": "Autonomous Logistics Solutions",
+    "copyright": "© 2026 Super X AI. All rights reserved."
+  }
+}

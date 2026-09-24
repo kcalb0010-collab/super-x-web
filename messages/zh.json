@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "solutions": "解决方案",
+    "technology": "技术",
+    "contact": "联系我们"
+  },
+
+  "hero": {
+    "title": "面向未来工业的自动化物流",
+    "subtitle": "为泰国工厂、仓库及工业运营提供自动驾驶与智能物流解决方案。",
+    "primaryButton": "查看解决方案",
+    "secondaryButton": "联系我们",
+    "autonomousDriving": "自动驾驶",
+    "operation": "全天候运行",
+    "localSupport": "泰国本地支持",
+    "imageTitle": "智能自动运输系统",
+    "imageDescription": "专为现代工厂、仓库和工业物流场景设计。"
+  },
+
+  "intro": {
+    "label": "关于 Super X AI",
+    "title": "世界级自动驾驶技术",
+    "subtitle": "由泰国本地团队运营与支持",
+    "description": "Super X AI 将世界级自动化物流技术应用于泰国实际工业运营。",
+    "description2": "依托 Zelostech 的 Level 4 自动驾驶技术，并结合 DIMET (SIAM) PCL 的工业基础，我们提供从规划、系统设计与集成，到安装、部署、监控及泰国本地售后支持的一站式解决方案。",
+    "highlight": "不只是无人驾驶车辆，更是一套完整的自动化物流系统。"
+  },
+
+  "solutions": {
+    "label": "解决方案",
+    "title": "完整的自动化物流解决方案",
+    "description": "从自动驾驶车辆、系统集成到部署和本地支持，Super X AI 提供完整的一站式工业物流解决方案。",
+    "card1Title": "自动驾驶运输车辆",
+    "card1Description": "适用于工厂、仓库、配送中心及工业设施的自动化运输解决方案。",
+    "card2Title": "系统集成",
+    "card2Description": "将自动化物流系统与工厂基础设施、现有工作流程及运营系统进行集成。",
+    "card3Title": "部署与本地支持",
+    "card3Description": "由泰国团队提供安装、测试、部署、监控及售后支持。"
+  },
+
+  "technology": {
+    "label": "技术",
+    "title": "Level 4 自动驾驶技术",
+    "description": "采用 Zelostech 的先进自动驾驶技术，并结合 DIMET (SIAM) PCL 的工业经验。",
+    "item1Title": "自动导航",
+    "item1Description": "在工业环境中实现智能路线规划与自动行驶。",
+    "item2Title": "AI 感知",
+    "item2Description": "实时感知环境、检测障碍物并进行智能决策。",
+    "item3Title": "车队管理",
+    "item3Description": "集中控制和管理多台自动驾驶车辆。",
+    "item4Title": "系统监控",
+    "item4Description": "实时掌握系统运行状态，为工业部署提供可靠支持。"
+  },
+
+  "workflow": {
+    "label": "为什么选择 Super X AI",
+    "title": "不仅仅是自动驾驶车辆",
+    "description": "我们提供从规划、部署到长期支持的完整自动化物流生态系统。",
+    "step1Title": "规划",
+    "step1Description": "分析工厂运营、运输路线和物流需求。",
+    "step2Title": "系统集成",
+    "step2Description": "将自动化物流系统与现有工厂基础设施进行设计与集成。",
+    "step3Title": "部署",
+    "step3Description": "在真实工业环境中进行安装、测试和正式部署。",
+    "step4Title": "支持服务",
+    "step4Description": "由泰国本地团队提供监控、维护和售后支持。"
+  },
+
+  "partners": {
+    "label": "技术与工业基础",
+    "zelosLabel": "自动驾驶技术",
+    "zelosDescription": "Level 4 自动驾驶技术",
+    "dimetLabel": "工业基础",
+    "dimetDescription": "工业经验与泰国本地运营支持"
+  },
+
+  "contact": {
+    "label": "联系 Super X AI",
+    "title": "共同打造自动化物流的未来",
+    "description": "欢迎与我们的团队洽谈适用于工厂、仓库及工业运营的自动化物流解决方案。",
+    "button": "联系 Super X AI",
+    "backTop": "返回顶部"
+  },
+
+  "footer": {
+    "subtitle": "自动化物流解决方案",
+    "copyright": "© 2026 Super X AI. 版权所有。"
+  }
+}
