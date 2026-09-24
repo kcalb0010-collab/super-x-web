@@ -82,7 +82,7 @@ export default async function AboutSection({
                 <div className="flex flex-wrap items-center gap-3">
 
                   <a
-                    href="https://www.facebook.com/"
+                    href="https://www.facebook.com/SUPERXAi2026/?mibextid=wwXIfr&rdid=irO7DRAludMab7lq&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GMCUCsw1G%2F%3Fmibextid%3DwwXIfr#"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Facebook"
