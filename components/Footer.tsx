@@ -1,23 +1,33 @@
 import { getTranslations } from "next-intl/server";
+
 import {
   FaFacebookF,
-  FaYoutube,
   FaInstagram,
   FaTiktok,
+  FaYoutube,
 } from "react-icons/fa";
+
 import { SiLine } from "react-icons/si";
 
 type Props = {
   locale: string;
 };
 
-export default async function Footer({ locale }: Props) {
-  const t = await getTranslations({ locale });
+export default async function Footer({
+  locale,
+}: Props) {
+  const t = await getTranslations({
+    locale,
+  });
 
   return (
     <footer className="border-t border-white/10 bg-black">
       <div className="mx-auto max-w-7xl px-6 py-12">
+
         <div className="flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
+
+          {/* COMPANY */}
+
           <div>
             <p className="font-semibold tracking-[0.25em]">
               SUPER X AI
@@ -35,15 +45,18 @@ export default async function Footer({ locale }: Props) {
             </a>
           </div>
 
-          <div className="flex items-center gap-3">
+          {/* SOCIAL */}
+
+          <div className="flex flex-wrap items-center gap-3">
+
             <a
               href="https://www.facebook.com/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition hover:bg-white hover:text-black"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition duration-300 hover:-translate-y-1 hover:bg-white hover:text-black"
             >
-              <FaFacebookF size={14} />
+              <FaFacebookF size={15} />
             </a>
 
             <a
@@ -51,9 +64,9 @@ export default async function Footer({ locale }: Props) {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="YouTube"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition hover:bg-white hover:text-black"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition duration-300 hover:-translate-y-1 hover:bg-white hover:text-black"
             >
-              <FaYoutube size={16} />
+              <FaYoutube size={17} />
             </a>
 
             <a
@@ -61,9 +74,19 @@ export default async function Footer({ locale }: Props) {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition hover:bg-white hover:text-black"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition duration-300 hover:-translate-y-1 hover:bg-white hover:text-black"
             >
-              <FaInstagram size={16} />
+              <FaInstagram size={17} />
+            </a>
+
+            <a
+              href="https://www.tiktok.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="TikTok"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition duration-300 hover:-translate-y-1 hover:bg-white hover:text-black"
+            >
+              <FaTiktok size={16} />
             </a>
 
             <a
@@ -71,28 +94,22 @@ export default async function Footer({ locale }: Props) {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LINE"
-              className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition hover:bg-white hover:text-black"
+              className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition duration-300 hover:-translate-y-1 hover:bg-white hover:text-black"
             >
-              <SiLine size={17} />
+              <SiLine size={18} />
             </a>
 
-            <a
-                href="https://www.tiktok.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="TikTok"
-                className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-neutral-500 transition hover:bg-white hover:text-black"
-                >
-                <FaTiktok size={16} />
-                </a>
           </div>
         </div>
+
+        {/* COPYRIGHT */}
 
         <div className="mt-10 border-t border-white/10 pt-8">
           <p className="text-sm text-neutral-600">
             {t("footer.copyright")}
           </p>
         </div>
+
       </div>
     </footer>
   );
