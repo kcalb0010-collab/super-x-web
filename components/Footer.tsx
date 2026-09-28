@@ -98,7 +98,7 @@ export default async function Footer({
                   </a>
 
                   <a
-                    href="https://www.linkedin.com/feed/"
+                    href=""
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LINE"

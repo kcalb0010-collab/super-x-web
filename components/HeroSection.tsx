@@ -24,10 +24,12 @@ export default async function HeroSection({
         loop
         playsInline
         preload="auto"
+        controls={false}
+        disablePictureInPicture
         className="absolute inset-0 h-full w-full object-cover"
       >
         <source
-          src="/videos/superx-hero-web.mp4"
+          src="/videos/superx-hero-mobile.mp4"
           type="video/mp4"
         />
       </video>
