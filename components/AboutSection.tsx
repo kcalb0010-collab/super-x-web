@@ -92,7 +92,7 @@ export default async function AboutSection({
 
                 <div className="mt-5 flex flex-wrap gap-3">
                   <a
-                    href="https://facebook.com/"
+                    href="https://www.facebook.com/share/1GMCUCsw1G/?mibextid=wwXIfr"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Facebook"
@@ -102,17 +102,7 @@ export default async function AboutSection({
                   </a>
 
                   <a
-                    href="https://x.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    aria-label="X"
-                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-                  >
-                    <FaXTwitter size={17} />
-                  </a>
-
-                  <a
-                    href="https://youtube.com/"
+                    href="https://youtube.com/shorts/9bXZmToM7VQ?si=F7VoLJ_UYO3CgidP"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="YouTube"
@@ -122,7 +112,7 @@ export default async function AboutSection({
                   </a>
 
                   <a
-                    href="https://instagram.com/"
+                    href="https://www.instagram.com/superxaiofficial/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Instagram"
@@ -132,7 +122,7 @@ export default async function AboutSection({
                   </a>
 
                   <a
-                    href="https://tiktok.com/"
+                    href="https://www.tiktok.com/@superxai_official"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="TikTok"
@@ -142,7 +132,7 @@ export default async function AboutSection({
                   </a>
 
                   <a
-                    href="https://line.me/"
+                    href="https://www.linkedin.com/feed/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LINE"

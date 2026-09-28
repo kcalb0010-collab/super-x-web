@@ -58,64 +58,54 @@ export default async function Footer({
 
             <div className="mt-5 flex flex-wrap gap-3">
               <a
-                href="https://facebook.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Facebook"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-              >
-                <FaFacebookF size={15} />
-              </a>
+                    href="https://www.facebook.com/share/1GMCUCsw1G/?mibextid=wwXIfr"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Facebook"
+                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
+                  >
+                    <FaFacebookF size={16} />
+                  </a>
 
-              <a
-                href="https://x.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="X"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-              >
-                <FaXTwitter size={16} />
-              </a>
+                  <a
+                    href="https://youtube.com/shorts/9bXZmToM7VQ?si=F7VoLJ_UYO3CgidP"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="YouTube"
+                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
+                  >
+                    <FaYoutube size={17} />
+                  </a>
 
-              <a
-                href="https://youtube.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="YouTube"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-              >
-                <FaYoutube size={16} />
-              </a>
+                  <a
+                    href="https://www.instagram.com/superxaiofficial/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Instagram"
+                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
+                  >
+                    <FaInstagram size={17} />
+                  </a>
 
-              <a
-                href="https://instagram.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Instagram"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-              >
-                <FaInstagram size={16} />
-              </a>
+                  <a
+                    href="https://www.tiktok.com/@superxai_official"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="TikTok"
+                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
+                  >
+                    <FaTiktok size={16} />
+                  </a>
 
-              <a
-                href="https://tiktok.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="TikTok"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-              >
-                <FaTiktok size={15} />
-              </a>
-
-              <a
-                href="https://line.me/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="LINE"
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-              >
-                <SiLine size={18} />
-              </a>
+                  <a
+                    href="https://www.linkedin.com/feed/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="LINE"
+                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
+                  >
+                    <SiLine size={19} />
+                  </a>
             </div>
           </div>
         </div>
