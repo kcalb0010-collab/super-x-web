@@ -68,7 +68,7 @@ export default async function Footer({
                   </a>
 
                   <a
-                    href="youtube.com/channel/UCO01-T9Uhsqo7UAmdy4dgQg?reload=9"
+                    href="https://www.youtube.com/channel/UCO01-T9Uhsqo7UAmdy4dgQg"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="YouTube"
