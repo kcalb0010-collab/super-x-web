@@ -68,7 +68,7 @@ export default async function Footer({
                   </a>
 
                   <a
-                    href="https://youtube.com/shorts/9bXZmToM7VQ?si=F7VoLJ_UYO3CgidP"
+                    href="youtube.com/channel/UCO01-T9Uhsqo7UAmdy4dgQg?reload=9"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="YouTube"
@@ -97,15 +97,7 @@ export default async function Footer({
                     <FaTiktok size={16} />
                   </a>
 
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    aria-label="LINE"
-                    className="flex h-11 w-11 items-center justify-center rounded-full border border-white/10 text-white/60 transition duration-300 hover:-translate-y-1 hover:border-cyan-400/30 hover:bg-white/10 hover:text-white"
-                  >
-                    <SiLine size={19} />
-                  </a>
+                  
             </div>
           </div>
         </div>
